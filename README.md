@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/single-price-grid-component-my-first-time-using-grids-Dyg9CXc-m)
 - Live Site URL: [Here](https://fernandofadanelli.github.io/single-price-grid-component/)
 
 ### Built with
